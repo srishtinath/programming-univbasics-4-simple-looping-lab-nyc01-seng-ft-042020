@@ -14,5 +14,5 @@ def loop_message_n_times(string, n_times)
     puts string
     counter+=1
   end
-  
+
 end
